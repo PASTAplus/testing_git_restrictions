@@ -2,3 +2,4 @@
 Repository for testing Git restrictions and security
 
 Test #1
+Test #2
